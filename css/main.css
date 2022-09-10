@@ -1,0 +1,15 @@
+/* Show it is fixed to the top */
+body {
+  height: 100%;
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+footer {
+  min-height: 200px;
+  background-color: black;
+}
+
+.img-3 {
+  display:inline;
+}
